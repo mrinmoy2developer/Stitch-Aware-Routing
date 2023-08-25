@@ -1,0 +1,30 @@
+////////////////////////////////////[Test Case 3]///////////////////////////////////
+Num_Terminals = 14
+Wirelength = 6
+Num Steiner Points=0
+CPU Time = 31084.000000 sec
+////////////////////////////////////[Test Case 2]///////////////////////////////////
+Num_Terminals = 15
+Wirelength = 7
+Num Steiner Points=0
+CPU Time = 28911.000000 sec
+////////////////////////////////////[Test Case 1]///////////////////////////////////
+Num_Terminals = 15
+Wirelength = 5
+Num Steiner Points=-653108224
+CPU Time = 23047.000000 sec
+////////////////////////////////////[Test Case 3]///////////////////////////////////
+Num_Terminals = 14
+Wirelength = 31084
+Num Steiner Points=6
+CPU Time = 0.000362 sec
+////////////////////////////////////[Test Case 2]///////////////////////////////////
+Num_Terminals = 15
+Wirelength = 28911
+Num Steiner Points=7
+CPU Time = 0.000383 sec
+////////////////////////////////////[Test Case 1]///////////////////////////////////
+Num_Terminals = 15
+Wirelength = 23047
+Num Steiner Points=5
+CPU Time = 0.000969 sec

@@ -1,0 +1,33 @@
+33d32945 stp file, stp format version 1.0
+
+section comment
+name    "m05"
+creator "mrinmoy banik"
+remark  "sparse graph with random weights"
+end
+
+section graph
+nodes 9
+edges 12
+e 1 2 1
+e 1 4 1
+e 2 3 4
+e 2 5 1
+e 3 6 1
+e 4 5 1
+e 4 7 2
+e 5 6 4
+e 5 8 2
+e 6 9 2
+e 7 8 1
+e 8 9 4
+end
+
+section terminals
+terminals 3
+t 3
+t 5
+t 7
+end
+
+eof

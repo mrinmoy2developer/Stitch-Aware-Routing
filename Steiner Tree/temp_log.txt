@@ -1,0 +1,10 @@
+////////////////////////////////////[Test Case 1]///////////////////////////////////
+Num_Terminals = 9
+Wirelength = 41
+Num Steiner Points = 6
+CPU Time = 0.000978 sec
+////////////////////////////////////[Test Case 2]///////////////////////////////////
+Num_Terminals = 38
+Wirelength = 109
+Num Steiner Points = 30
+CPU Time = 0.000293 sec

@@ -1,0 +1,50 @@
+////////////////////////////////////[Test Case 0]///////////////////////////////////
+Num_Terminals = 13
+Wirelength = 19551
+Num Steiner Points = 11
+CPU Time = 0.967175 sec
+////////////////////////////////////[Test Case 1]///////////////////////////////////
+Num_Terminals = 10
+Wirelength = 20185
+Num Steiner Points = 0
+CPU Time = 0.036380 sec
+////////////////////////////////////[Test Case 2]///////////////////////////////////
+Num_Terminals = 10
+Wirelength = 20185
+Num Steiner Points = 0
+CPU Time = 0.030675 sec
+////////////////////////////////////[Test Case 3]///////////////////////////////////
+Num_Terminals = 13
+Wirelength = 19551
+Num Steiner Points = 11
+CPU Time = 0.994098 sec
+////////////////////////////////////[Test Case 4]///////////////////////////////////
+Num_Terminals = 10
+Wirelength = 20185
+Num Steiner Points = 0
+CPU Time = 0.031485 sec
+////////////////////////////////////[Test Case 5]///////////////////////////////////
+Num_Terminals = 11
+Wirelength = 21275
+Num Steiner Points = 0
+CPU Time = 0.099558 sec
+////////////////////////////////////[Test Case 6]///////////////////////////////////
+Num_Terminals = 10
+Wirelength = 20185
+Num Steiner Points = 0
+CPU Time = 0.031249 sec
+////////////////////////////////////[Test Case 7]///////////////////////////////////
+Num_Terminals = 11
+Wirelength = 21275
+Num Steiner Points = 0
+CPU Time = 0.104659 sec
+////////////////////////////////////[Test Case 8]///////////////////////////////////
+Num_Terminals = 11
+Wirelength = 21275
+Num Steiner Points = 0
+CPU Time = 0.102525 sec
+////////////////////////////////////[Test Case 9]///////////////////////////////////
+Num_Terminals = 10
+Wirelength = 20185
+Num Steiner Points = 0
+CPU Time = 0.029852 sec
