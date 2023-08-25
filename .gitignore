@@ -1,0 +1,12 @@
+# Ignore compiled object files, libraries, and executables
+*.o
+*.a
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+#vs code files
+.vscode
+.dist
